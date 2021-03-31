@@ -1,1 +1,1 @@
-docker build -t "courses/nodejs" .
+docker build -t "courses_docker_nodejs" .
